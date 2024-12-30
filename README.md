@@ -7,7 +7,11 @@ To develop a user-friendly web application that allows users to convert amounts 
 
 # Features 
 1.Users can input the amount they want to convert between supported currencies.
+
 2.Users can select the source currency and the target currency from dropdown menus (USD, EUR, GBP, JPY, INR)
+
 3.Fetches the latest exchange rates for accurate and up-to-date currency conversions.
+
 4.Displays the converted amount immediately after user input and selection.
+
 5.Simple layout with easy-to-use input fields and responsive buttons for smooth interaction.
